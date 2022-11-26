@@ -1,8 +1,8 @@
 # Rabeya-akter-sakhi
 <h1 align="center">Hi 👋, I'm Rabeya akter Sakhi</h1>
-<h3 align="center">CTF , Cyber Security , Ethical Hacking , Web Penetration Testing Youtube Channel</h3>
+<h3 align="center">CTF player, Cyber Security Expert, Ethical Hacker , Web Penetration Tester </h3>
 
-<p align="left"> <img src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" /> </p>
+< align="left"> <img src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
