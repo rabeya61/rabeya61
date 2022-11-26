@@ -1,10 +1,9 @@
 # Rabeya-akter-sakhi
 <h1 align="center">Hi 👋, I'm Rabeya akter Sakhi</h1>
 <h3 align="center">CTF player , Cyber Security expert, Ethical Hacker, Web Penetration Tester .</h3>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSpANNWECz0NuLr3OJEWVC1eWP2jTZtdh8g&usqp=CAU">
 
-<img align="right" alt="Coding"width="400" src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSpANNWECz0NuLr3)">
 
-<p align="left"> <img src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
